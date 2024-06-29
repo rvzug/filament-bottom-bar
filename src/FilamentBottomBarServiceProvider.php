@@ -2,9 +2,9 @@
 
 namespace Rvzug\FilamentBottomBar;
 
+use Rvzug\FilamentBottomBar\Commands\FilamentBottomBarCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Rvzug\FilamentBottomBar\Commands\FilamentBottomBarCommand;
 
 class FilamentBottomBarServiceProvider extends PackageServiceProvider
 {
