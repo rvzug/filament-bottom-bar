@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Rvzug\FilamentBottomBar\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentBottomBarCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-bottom-bar';
 
     public $description = 'My command';
 
